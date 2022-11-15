@@ -1,11 +1,11 @@
 # 1stKare
 
-1stKare - Web
+1stKare -  Web
 
 ## Setup
 
 1. Copy `.env.example` to a new `.env.local` file, and configure it as needed
-
+Cancel changes
 2. `pnpm install`
 
 ## Scripts
