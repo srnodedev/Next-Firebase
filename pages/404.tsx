@@ -9,7 +9,7 @@ function Custom404() {
     <div className="page_container">
       <Header />
 
-      <div
+      <div 
         id="notfound"
         style={{
           display: 'flex',
