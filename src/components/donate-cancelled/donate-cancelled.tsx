@@ -4,7 +4,7 @@ import Typography from '@mui/material/Typography'
 import Button from '@mui/material/Button'
 
 import { useCity } from '../../utils/city/city-context'
-import Footer from '../_shared/footer/footer'
+import Footer from '../_shared/footer/footer' 
 import Header from '../_shared/header/header'
 import styles from './donate-cancelled.module.scss'
 
