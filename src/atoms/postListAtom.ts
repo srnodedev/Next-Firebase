@@ -1,3 +1,3 @@
 import { atom } from 'jotai'
 
-export const postListAtom = atom('')
+export const postListAtom = atom('') 
