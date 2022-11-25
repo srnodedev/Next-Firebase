@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 
 export default function useOffSetTop(top: number) {
   const [offsetTop, setOffSetTop] = useState(false)
-  const isTop = top || 100
+  const isTop = top || 100 
 
   useEffect(() => {
     window.onscroll = () => {
