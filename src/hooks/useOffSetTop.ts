@@ -19,7 +19,7 @@ export default function useOffSetTop(top: number) {
     }
   }, [isTop])
 
-  return offsetTop
+  return offsetTop 
 }
 
 // Usage
