@@ -6,7 +6,7 @@ import Posts from '../../src/components/posts/posts'
 import { hasuraServerRequest } from '../../src/utils/hasura/hasura-server-request'
 import { filterTreeSB } from '../../src/utils/processDuplicates/helpers'
 
-function PostsPage(props: PostsProps) {
+function PostsPage(props: PostsProps) { 
   return (
     <div className="page_container">
       <NextSeo
