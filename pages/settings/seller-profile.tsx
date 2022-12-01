@@ -13,5 +13,5 @@ function SettingsSellerProfilePage(_: SettingsSellerProfilePageProps) {
     </div>
   )
 }
-
+ 
 export default SettingsSellerProfilePage
