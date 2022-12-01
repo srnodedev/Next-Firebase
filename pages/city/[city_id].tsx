@@ -4,7 +4,7 @@ import { NextSeo } from 'next-seo'
 import type { CityDetailProps } from '../../src/components/city-detail/city-detail'
 import CityDetail from '../../src/components/city-detail/city-detail'
 import { hasuraServerRequest } from '../../src/utils/hasura/hasura-server-request'
-
+ 
 function CityDetailPage(props: CityDetailProps) {
   return (
     <div className="page_container">
