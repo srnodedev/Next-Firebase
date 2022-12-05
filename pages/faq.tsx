@@ -18,7 +18,7 @@ function FaqPage(props: FaqPageProps) {
     </div>
   )
 }
-
+ 
 export default FaqPage
 
 export const getStaticProps: GetStaticProps<FaqPageProps> = async () => {
