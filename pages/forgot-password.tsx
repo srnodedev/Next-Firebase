@@ -6,7 +6,7 @@ function ForgotPasswordPage() {
   return (
     <div className="page_container">
       <NextSeo title="Reset your password" />
-
+ 
       <ForgotPassword />
     </div>
   )
