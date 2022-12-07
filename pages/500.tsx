@@ -9,7 +9,7 @@ function Custom500() {
   return (
     <div className="page_container">
       <Header />
-
+      
       <div
         style={{
           display: 'flex',
